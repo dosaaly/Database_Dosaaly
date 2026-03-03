@@ -32,7 +32,7 @@ INSERT INTO authors (first_name, last_name, nationality) VALUES
 -- Inserting iconic books
 INSERT INTO books (title, isbn) VALUES 
 ('The Day Lasts More Than a Hundred Years', '9780253204820'),
-('Abai Zholy', '9786017321000');
+('Abai Zholy', '9786012001983');
 
 -- Linking books to authors
 INSERT INTO book_authors (book_id, author_id) VALUES 
